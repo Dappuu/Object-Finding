@@ -1,9 +1,7 @@
 numpy
 jupyter
-scikit-learn
+opencv-python
 pandas
-seaborn
 matplotlib
-imblearn
-hyperopt
-streamlit
+statistics
+pathlib
